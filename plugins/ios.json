@@ -1,0 +1,76 @@
+{
+    "prepare_queue": {
+        "installed": [],
+        "uninstalled": []
+    },
+    "config_munge": {
+        "files": {}
+    },
+    "installed_plugins": {
+        "cordova-plugin-device": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-globalization": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-file": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-inappbrowser": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-file-transfer": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-network-information": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-camera": {
+            "CAMERA_USAGE_DESCRIPTION": " ",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": " ",
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-media-capture": {
+            "CAMERA_USAGE_DESCRIPTION": "We'd like to access your camera to let you take a photo",
+            "MICROPHONE_USAGE_DESCRIPTION": "We'd like to access your microphone to let you record an audio",
+            "PHOTOLIBRARY_USAGE_DESCRIPTION": "We'd like like to open your photo library to let you pick a photo",
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-splashscreen": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-statusbar": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-whitelist": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "net.tunts.webintent": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-customurlscheme": {
+            "URL_SCHEME": "moodlemobile",
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "ionic-plugin-keyboard": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "ch.ti8m.documenthandler": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-local-notifications-mm": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-zip": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        }
+    },
+    "dependent_plugins": {
+        "cordova-plugin-compat": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        },
+        "cordova-plugin-app-event": {
+            "PACKAGE_NAME": "com.moodle.moodlemobile"
+        }
+    }
+}
